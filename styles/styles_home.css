@@ -16,6 +16,10 @@ header {
     font-size: large;
     border-bottom: 5px solid #8FC1B5;
 }
+#img-ads{
+    width: 55px;
+    height: 55px;
+}
 
 /* Grid de INFO */
 .container {
