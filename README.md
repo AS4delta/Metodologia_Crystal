@@ -25,3 +25,5 @@ Em especial na logística, essas ferramentas de gestão têm um papel fundamenta
 
 Dicas de como aplicar a metodologia na logística;
 O Método Crystal Clear é baseado no tamanho da equipe e nos riscos envolvidos, dividido por cores apropriadas ao nível de criticidade, ou seja, quanto mais escura for a cor, mais crítico é o sistema e será utilizada a metodologia pertinente. Por exemplo, um projeto que envolve uma equipe de 50 pessoas necessitará de uma metodologia mais pesada do que um projeto com uma equipe de apenas 10 pessoas.
+
+Teste
