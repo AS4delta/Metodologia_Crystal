@@ -14,4 +14,23 @@ header {
     text-align: center;
     font-weight: bold;
     font-size: large;
+    border-bottom: 3px solid #500f0f;
+}
+
+/* Grid de INFO */
+.container {
+    background-color: aliceblue;
+    min-height: 70vh;
+    padding: 50px;
+}
+
+.info-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+/* footer */
+footer {
+    background-color: #FF1616;
+    color: aliceblue;
+    border-top: 3px solid #500f0f;
 }
