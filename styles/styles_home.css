@@ -28,9 +28,48 @@ header {
     max-width: 1200px;
     margin: 0 auto;
 }
+
+.card {
+    width: 31%;
+    display: inline-block;
+    margin: 1% 1%;
+    padding: 15px;
+
+}
+
+.info-image{
+    height: 200px;
+    width: 300px;
+    margin-bottom: 10px;
+    background-position: center;
+    background-size: cover;
+}
+
+#img-1 {
+    background-image: url('../images/titulo1.png');
+}
+
+#img-2 {
+    background-image: url('../images/titulo2.png');
+}
+
+#img-3 {
+    background-image: url('../images/titulo3.png');
+}
+
+#img-4 {
+    background-image: url('../images/titulo4.png');
+}
+
+h3{
+    
+}
+
 /* footer */
 footer {
     background-color: #FF1616;
     color: aliceblue;
     border-top: 3px solid #500f0f;
+    text-align: center;
+    padding: 80px;
 }
