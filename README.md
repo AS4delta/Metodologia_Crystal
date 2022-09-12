@@ -19,3 +19,6 @@ Durante o processo de criação realizamos alterações e vários testes para ce
 Com a integração das novas abas, adicionamos os textos e um botão para voltar a página home do site, realizamos alguns ajustes para que o texto ficasse dentro da box criada.
 
 Por fim, realizamos a marcação/documentação do arquivo (e alguns ajustes no código em si), para ficar mais fácil de se localizar dentro das linhas de código e para facilitar a leitura de uma pessoa que se interessar pelo código.
+
+Sites fontes do Conteúdo: https://www.devmedia.com.br/metodos-ageis-parte-02/9443
+                          https://leandromtr.com/metodologia-agil-crystal/
