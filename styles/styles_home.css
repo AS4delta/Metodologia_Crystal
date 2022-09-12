@@ -53,6 +53,7 @@ header {
     margin-bottom: 10%;
     color: aliceblue;
     font-weight: bold;
+    background-color: #146551;
     
 }
 .btn{
@@ -70,22 +71,6 @@ header {
 }
 .btn:hover{
     background-color: #007566;
-}
-
-#img-1 {
-    background-color: #146551;
-}
-
-#img-2 {
-    background-color: #146551;
-}
-
-#img-3 {
-    background-color: #146551;
-}
-
-#img-4 {
-    background-color: #146551;
 }
 
 h3{
@@ -111,4 +96,50 @@ footer {
     border-top: 3px solid #8FC1B5;
     text-align: center;
     padding: 80px;
+}
+.container-text {
+    background-color: aliceblue;
+    min-height: 73vh;
+    padding: 50px;
+}
+
+.info-container-text {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+   
+.info-text{
+    text-align: justify;
+    padding-left: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 5%;
+    color: aliceblue;
+    font-weight: bold;
+    background-color: #146551;
+    border-radius: 5px;
+    padding: 15px;
+ }
+.btn-text{
+    text-decoration: none; 
+    text-align: center;
+    display: block;
+    width: 100%;
+    text-transform: uppercase;
+    background-color: #146551;
+    color: aliceblue;
+    padding: 15px;
+    border-radius: 5px;
+    transition: .5s;
+    font-weight: bold;
+ }
+ .btn-text:hover{
+     background-color: #007566;
+ }
+ #text-left{
+     text-align: left;
 }
