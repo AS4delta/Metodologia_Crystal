@@ -10,7 +10,7 @@ Kaike Tolentino         - RA 00239502 - Turma B
 
 Projeto Metodologia Crystal - Processo de Criação
 
-Começamos o projeto com uma pesquisa sobre a Metodologia, utilizando alguns sites como fontes de informação para a criação do conteúdo do site. Utilizamos alguns tópicos para para separar essas informações como: "O que são Metodologias Ágeis", "O que é a Metodologia Crystal?", "Como a Metodologia Crystal pode ser Parametrizada?" e "Ciclo da Metodologia Crystal".
+Começamos o projeto com uma pesquisa sobre a Metodologia, utilizando alguns sites como fontes de informação para a criação do conteúdo do site. Utilizamos alguns tópicos para separar essas informações como: "O que são Metodologias Ágeis", "O que é a Metodologia Crystal?", "Como a Metodologia Crystal pode ser Parametrizada?" e "Ciclo da Metodologia Crystal".
 
 Em Seguida prosseguimos com a criação do HTML e CSS, criando Header, Footer, Box's de informações, e por fim os botões.
 
